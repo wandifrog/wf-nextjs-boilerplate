@@ -29,5 +29,5 @@
     "lint-staged": "^11.0.0",
     "standard-version": "^9.3.0",
     "typescript": "^4.3.2"
-  },
+  }
 ```
